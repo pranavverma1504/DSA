@@ -13,3 +13,5 @@ public:
         return nums;
     }
 };
+//TC: O(n log n) (sorting)
+// SC: O(1) or O(n)
