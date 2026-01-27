@@ -15,3 +15,6 @@ int main() {
         cout << temp[i] << " ";
     }
 }
+//Time: O(n)
+//Space: O(n)
+//Idea: Create a temporary array to store reversed elements
